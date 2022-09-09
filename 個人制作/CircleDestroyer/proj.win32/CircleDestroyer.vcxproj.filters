@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\debug\debug_system.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\draw_spr.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\font\font_pop.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\function_main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\key_event.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\sort.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\sound\sound.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\task\task_system.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\texture\texture.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\battle\battle.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\calculation_work\calculation_work.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\game_main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\result\result.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\title\title.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flame_main\save\data_save.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

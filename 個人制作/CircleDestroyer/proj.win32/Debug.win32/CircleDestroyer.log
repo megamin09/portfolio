@@ -1,0 +1,116 @@
+﻿  debug_system.cpp
+  draw_spr.cpp
+  font_pop.cpp
+  function_main.cpp
+  key_event.cpp
+  data_save.cpp
+  sort.cpp
+  sound.cpp
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\sound\sound.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\function_main.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\save\data_save.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\key_event.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\draw_spr.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\font\font_pop.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\sort.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\debug\debug_system.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\function_main.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\sound\sound.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\save\data_save.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\key_event.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\sort.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\draw_spr.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\font\font_pop.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\debug\debug_system.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\function_main.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\function_main.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.cpp(83,5): warning C4996: 'cocos2d::CCGLProgram': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\sound\sound.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\sound\sound.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\save\data_save.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\save\data_save.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.cpp(83,63): warning C4996: 'cocos2d::GLProgramCache::programForKey': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.cpp(84,9): warning C4996: 'cocos2d::Node::setShaderProgram': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\key_event.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\key_event.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\sort.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\sort.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\draw_spr.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\debug\debug_system.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\debug\debug_system.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\draw_spr.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(14,10): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(17,10): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(31,5): warning C4996: 'cocos2d::kmMat4': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(32,5): warning C4996: 'cocos2d::kmMat4': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(33,5): warning C4996: 'cocos2d::kmMat4': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(34,5): warning C4996: 'cocos2d::kmMat4': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(35,5): warning C4996: 'cocos2d::kmMat4': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\debug\debug_system.cpp(18,12): warning C4101: 'task_text': ローカル変数は 1 度も使われていません。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(38,19): warning C4996: 'cocos2d::KM_GL_PROJECTION': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(39,19): warning C4996: 'cocos2d::KM_GL_MODELVIEW': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(23,15): warning C4996: 'cocos2d::Director::sharedDirector': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\font\font_pop.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(25,5): warning C4996: 'cocos2d::ccGLEnableVertexAttribs': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\font\font_pop.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(28,9): warning C4996: 'cocos2d::Node::getShaderProgram': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(38,5): warning C4996: 'cocos2d::kmGLGetMatrix': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(39,5): warning C4996: 'cocos2d::kmGLGetMatrix': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(40,5): warning C4996: 'cocos2d::kmMat4Multiply': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(43,5): warning C4996: 'cocos2d::kmMat4Translation': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(44,5): warning C4996: 'cocos2d::kmMat4Multiply': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(47,5): warning C4996: 'cocos2d::kmMat4Scaling': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(48,5): warning C4996: 'cocos2d::kmMat4Multiply': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(51,48): warning C4996: 'cocos2d::Node::getShaderProgram': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(52,9): warning C4996: 'cocos2d::Node::getShaderProgram': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(72,5): warning C4996: 'cocos2d::kmVec3': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(73,5): warning C4996: 'cocos2d::kmVec2': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(98,5): warning C4996: 'cocos2d::kmVec3Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(99,5): warning C4996: 'cocos2d::kmVec3Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(100,5): warning C4996: 'cocos2d::kmVec3Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(101,5): warning C4996: 'cocos2d::kmVec3Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(109,5): warning C4996: 'cocos2d::kmVec2Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(110,5): warning C4996: 'cocos2d::kmVec2Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(111,5): warning C4996: 'cocos2d::kmVec2Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\draw_spr.cpp(112,5): warning C4996: 'cocos2d::kmVec2Fill': が古い形式として宣言されました。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\font\font_pop.cpp(512,8): warning C4101: 'str': ローカル変数は 1 度も使われていません。
+  task_system.cpp
+  texture.cpp
+  battle.cpp
+  calculation_work.cpp
+  game_main.cpp
+  result.cpp
+  title.cpp
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\task\task_system.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\calculation_work\calculation_work.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\game_main.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\title\title.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\battle\battle.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\texture\texture.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\result\result.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\task\task_system.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\calculation_work\calculation_work.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\title\title.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\battle\battle.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\game_main.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\flame_main\texture\texture.cpp)
+D:\project\CircleDestroyer\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\game\result\result.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\title\title.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\title\title.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\task\task_system.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\task\task_system.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\game_main.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\game_main.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\task\task_system.cpp(74,12): warning C4101: 'loop1': ローカル変数は 1 度も使われていません。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\calculation_work\calculation_work.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\calculation_work\calculation_work.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\battle\battle.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\battle\battle.cpp)
+D:\project\CircleDestroyer\proj.win32\src\game\battle\battle.cpp(340,8): warning C4101: 'ap2': ローカル変数は 1 度も使われていません。
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\texture\texture.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\flame_main\texture\texture.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(83,14): warning C4996: 'cocos2d::CCShaderCache': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\result\result.cpp)
+D:\project\CircleDestroyer\proj.win32\src\flame_main\function_main.h(86,14): warning C4996: 'cocos2d::CCDirector': が古い形式として宣言されました。 (ソース ファイルをコンパイルしています src\game\result\result.cpp)
+  CircleDestroyer.vcxproj -> D:\project\CircleDestroyer\proj.win32\Debug.win32\CircleDestroyer.exe
+  Performing Custom Build Step
+  0 個のファイルをコピーしました

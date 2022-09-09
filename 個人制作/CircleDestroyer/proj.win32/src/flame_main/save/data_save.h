@@ -1,0 +1,1 @@
+extern void DATA_save(SINT32 type, SINT32* data);                   //データのセーブ関係

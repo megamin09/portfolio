@@ -1,0 +1,2 @@
+D:\project\CircleDestroyer\proj.win32\Debug.win32\CircleDestroyer.exe
+D:\project\CircleDestroyer\proj.win32\Debug.win32\CircleDestroyer.pdb
